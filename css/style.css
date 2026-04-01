@@ -40,14 +40,14 @@ p{
 ul{
     color: #573A37;;
 }
-.container{
+#page{
     max-width: 800px;
     margin: 24px auto;
     padding: 24px;
     background: #F0E8C2;
     border-radius: 12px ;
 }
-.container img {
+#page img {
     display: block;
     width: 100%;
     border-radius: 12px;
